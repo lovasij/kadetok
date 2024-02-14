@@ -1,0 +1,35 @@
+Lawrence Gilman Roberts (December 21, 1937 – December 26, 2018) was an American engineer who received the Draper Prize in 2001 "for the development of the Internet", and the Principe de Asturias Award in 2002.
+Roberts, who was known as Larry, was born and raised in Westport, Connecticut.
+MIT
+After receiving his PhD, Roberts continued to work at the MIT Lincoln Laboratory. Having read the seminal 1961 paper of the "Intergalactic Computer Network" by J. C. R. Licklider, Roberts developed a research interest in time-sharing using computer networks.
+ARPA
+In 1967, although at first reluctant, he was recruited by Robert Taylor in the ARPA Information Processing Techniques Office (IPTO) to become the program manager for the ARPANET.
+Roberts' plan for the ARPANET was the first wide area packet-switching network with distributed control, similar to Donald Davies' 1965 design. ARPA issued a request for quotation (RFQ) to build the system, which was awarded to Bolt, Beranek and Newman (BBN).
+In 1970, he proposed to NPL's Donald Davies that the two organizations connect their networks via a satellite link. This original proposal proved infeasible, but in 1971 Peter Kirstein agreed to Roberts' proposal to connect his research group at University College London (UCL) instead. UCL provided interconnection with British academic networks, forming the first international resource sharing network.
+TELNET
+In 1973, Roberts left ARPA to join BBN's effort to commercialize the nascent packet-switching technology in the form of Telenet, the first FCC-licensed public data network in the United States. He served as its CEO from 1973 to 1980.
+https://en.wikipedia.org/wiki/Lawrence_Roberts_(scientist)
+
+
+
+
+Lawrence Gilman Roberts (1937. december 21. – 2018. december 26.) amerikai mérnök, aki 2001-ben Draper-díjat kapott "az internet fejlesztéséért", 2002-ben pedig Principe de Asturias-díjat.
+Roberts, akit Larryként ismertek, a Connecticut állambeli Westportban született és nőtt fel.
+MIT
+A doktori fokozat megszerzése után Roberts tovább dolgozott az MIT Lincoln Laboratóriumában. Miután elolvasta J. C. R. Licklider „Intergalaktikus Számítógépes Hálózat” című, 1961-es alapművét, Roberts kutatási érdeklődést mutatott a számítógépes hálózatokat használó időmegosztás iránt.
+ARPA
+1967-ben, bár eleinte vonakodva, Robert Taylor felvette az ARPA Information Processing Techniques Office-ba (IPTO), hogy az ARPANET programmenedzsere legyen.
+Roberts terve az ARPANET-re az első nagy kiterjedésű csomagkapcsolós hálózat volt elosztott vezérléssel, hasonlóan Donald Davies 1965-ös tervéhez. Az ARPA ajánlatkérést (RFQ) adott ki a rendszer felépítésére, amelyet Bolt, Beranek és Newman (BBN) ítéltek oda.
+1970-ben azt javasolta Donald Daviesnek, az NPL-től, hogy a két szervezet kösse össze hálózatát műholdas kapcsolaton keresztül. Ez az eredeti javaslat kivitelezhetetlennek bizonyult, de 1971-ben Peter Kirstein beleegyezett Roberts javaslatába, hogy inkább a University College Londonhoz (UCL) csatlakoztassa kutatócsoportját. Az UCL biztosította az összekapcsolást a brit akadémiai hálózatokkal, létrehozva az első nemzetközi erőforrás-megosztó hálózatot.
+TELNET
+Lawrence Gilman Roberts (December 21, 1937 – December 26, 2018) was an American engineer who received the Draper Prize in 2001 "for the development of the Internet", and the Principe de Asturias Award in 2002.
+Roberts, who was known as Larry, was born and raised in Westport, Connecticut.
+MIT
+Roberts, who was known as Larry, was born and raised in Westport, Connecticut.
+ARPA
+In 1967, although at first reluctant, he was recruited by Robert Taylor in the ARPA Information Processing Techniques Office (IPTO) to become the program manager for the ARPANET.
+Roberts' plan for the ARPANET was the first wide area packet-switching network with distributed control, similar to Donald Davies' 1965 design. ARPA issued a request for quotation (RFQ) to build the system, which was awarded to Bolt, Beranek and Newman (BBN).
+In 1970, he proposed to NPL's Donald Davies that the two organizations connect their networks via a satellite link. This original proposal proved infeasible, but in 1971 Peter Kirstein agreed to Roberts' proposal to connect his research group at University College London (UCL) instead. UCL provided interconnection with British academic networks, forming the first international resource sharing network.
+TELNET
+In 1973, Roberts left ARPA to join BBN's effort to commercialize the nascent packet-switching technology in the form of Telenet, the first FCC-licensed public data network in the United States. He served as its CEO from 1973 to 1980.
+https://en.wikipedia.org/wiki/Lawrence_Roberts_(scientist)
