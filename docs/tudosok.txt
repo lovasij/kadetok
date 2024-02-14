@@ -1,5 +1,5 @@
 Paul Baran
-﻿Vannevar Bush
+Vannevar Bush
 Vinton Cerf
 Douglas Engelbart
 Robert E. Kahn
