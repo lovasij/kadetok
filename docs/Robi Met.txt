@@ -1,0 +1,29 @@
+Robert "Bob" Melancton Metcalfe (born April 7, 1946) is an American engineer and entrepreneur who contributed to the development of the internet in the 1970s. He co-invented Ethernet, co-founded 3Com, and formulated Metcalfe's law, which describes the effect of a telecommunications network. Metcalfe has received various awards, including the IEEE Medal of Honor and National Medal of Technology and Innovation for his work developing Ethernet technology.
+Metcalfe graduated from the Massachusetts Institute of Technology in 1969, receiving two Bachelor of Science degrees in electrical engineering and industrial management. He then attended Harvard University and received a Master of Science in applied mathematics in 1970 and a PhD in computer science in 1973.
+Metcalfe and his wife Robyn have two children.
+CAREER
+While pursuing his doctorate in computer science, Metcalfe took a job with MIT's Project MAC after Harvard refused permission for him to connect the university to the then-new ARPAnet. At MAC, Metcalfe was responsible for building some of the hardware that would link MIT's minicomputers with ARPAnet.
+Metcalfe was working at PARC in 1973 when he and David Boggs invented Ethernet, initially as a standard for connecting computers over short distances. He later recalled that Ethernet was born on May 22, 1973, the day he circulated a memo titled "Alto Ethernet" which contained a rough schematic of how it would work.
+In 1979, Metcalfe departed PARC and co-founded 3Com, a manufacturer of computer networking equipment, in his Palo Alto apartment. 3Com became a leading provider of networking solutions, and Ethernet became the dominant networking standard for local area networks (LANs).
+From 2011 to 2021, he was a professor at The University of Texas at Austin's Cockrell School of Engineering, specializing in innovation initiatives.
+AWARDS
+In 1996, Metcalfe was awarded the IEEE Medal of Honor for "exemplary and sustained leadership in the development, standardization, and commercialization of Ethernet. He received the National Medal of Technology in 2003 "for leadership in the invention, standardization, and commercialization of Ethernet".
+PREDICTED INTERNET COLLABS
+In 1995, Metcalfe argued that the Internet would suffer a "catastrophic collapse" in the following year; he promised to eat his words if it did not. During his keynote speech at the sixth International World Wide Web Conference in 1997, he took a printed copy of his column that predicted the collapse, put it in a blender with some liquid and then consumed the pulpy mass.
+https://en.wikipedia.org/wiki/Robert_Metcalfe
+
+
+
+Robert "Bob" Melancton Metcalfe (1946. április 7.) amerikai mérnök és vállalkozó, aki az 1970-es években hozzájárult az internet fejlődéséhez. Társaként feltalálta az Ethernetet, megalapította a 3Com-ot, és megfogalmazta Metcalfe törvényét, amely leírja a távközlési hálózat hatását. A Metcalfe számos kitüntetést kapott, köztük az IEEE Medal of Honor-t és a National Medal of Technology and Innovation-t az Ethernet technológia fejlesztéséért végzett munkájáért.
+Metcalfe 1969-ben diplomázott a Massachusetts Institute of Technology-n, és két Bachelor of Science fokozatot szerzett elektromérnöki és ipari menedzsment szakon. Ezután a Harvard Egyetemre járt, és 1970-ben Master of Science fokozatot szerzett alkalmazott matematikából és PhD fokozatot számítástechnikából 1973-ban.
+Metcalfe-nak és feleségének, Robynnak két gyermeke van.
+KARRIERJE
+A számítástudományi doktori fokozat megszerzése közben Metcalfe az MIT MAC projektjénél vállalt munkát, miután a Harvard megtagadta az engedélyt, hogy az egyetemet az akkor új ARPAnethez csatlakoztassa. A MAC-nál a Metcalfe volt a felelős néhány olyan hardver megépítéséért, amelyek összekapcsolják az MIT miniszámítógépeit az ARPAnet-tel.
+Metcalfe a PARC-nél dolgozott 1973-ban, amikor David Boggs-szal feltalálták az Ethernetet, kezdetben a számítógépek rövid távolságú csatlakoztatásának szabványaként. Később felidézte, hogy az Ethernet 1973. május 22-én született, azon a napon, amikor kiadott egy feljegyzést "Alto Ethernet" címmel, amely durva vázlatot tartalmazott a működéséről.
+1979-ben Metcalfe kilépett a PARC-ból, és társalapítója volt a 3Com-nak, a számítógépes hálózati berendezéseket gyártó cégnek Palo Alto-i lakásában. A 3Com a hálózati megoldások vezető szolgáltatójává vált, az Ethernet pedig a helyi hálózatok (LAN) domináns hálózati szabványává vált.
+2011 és 2021 között a Texasi Egyetem professzora volt az austini Cockrell School of Engineeringben, innovációs kezdeményezésekre szakosodott.
+DÍJAI
+1996-ban Metcalfe elnyerte az IEEE Medal of Honor kitüntetést az Ethernet fejlesztésében, szabványosításában és kereskedelmi forgalomba hozatalában nyújtott példamutató és tartós vezető szerepéért. 2003-ban megkapta a National Medal of Technology díjat "az Ethernet feltalálásában, szabványosításában és kereskedelmi forgalomba hozatalában végzett vezető szerepéért ".
+JÓSÍTOTT INTERNETES EGYÜTTMŰKÖDÉSEK
+1995-ben Metcalfe azzal érvelt, hogy az Internet a következő évben "katasztrófális összeomlást" fog szenvedni; megígérte, hogy megeszi a szavait, ha nem. 1997-ben a hatodik Nemzetközi Világháló Konferencián tartott vitaindító beszéde során elővett egy nyomtatott példányt az összeomlást megjósló rovatából, egy turmixgépbe tette némi folyadékkal, majd elfogyasztotta a pépes masszát.
+https://en.wikipedia.org/wiki/Robert_Metcalfe
