@@ -1,6 +1,9 @@
 body {
     background-color: whitesmoke;
 }
+.tudos {
+    
+}
 .kep_tudosok {
     width: 30px;
     height: 20px;
@@ -23,6 +26,12 @@ td {
     margin: auto;
     border: solid 3px 10px darkslategray;
 }
-.zaszlo {
+.magyar {
     float: right;
+    width: 20%;
+
+}
+.angol {
+    float: right;
+    width: 20%;
 }
