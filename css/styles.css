@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+.kep_tudosok {
+    width: 30px;
+    height: 20px;
+    margin: 2px;
+}
+.fejlec {
+    margin: 2 auto;
+    border: solid 2px white;
+}
+a.hover, a.active {
+    border: solid 1px white;
+}
+td {
+    margin: auto;
+}
+.dobozok {
+    background-color: white;
+    width: 60%;
+    height: 90%;
+    margin: auto;
+    border: solid 3px 10px darkslategray;
+}
+.zaszlo {
+    float: right;
+}
