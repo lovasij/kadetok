@@ -12,6 +12,8 @@ body {
 .fejlec {
     margin: 2 auto;
     border: solid 2px white;
+    width: 102%;
+    height: 300px;
 }
 a.hover, a.active {
     border: solid 1px white;
@@ -28,10 +30,10 @@ td {
 }
 .magyar {
     float: right;
-    width: 20%;
+    width: 40px;
 
 }
 .angol {
     float: right;
-    width: 20%;
+    width: 40px;
 }
