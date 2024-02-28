@@ -1,9 +1,9 @@
 body {
-<<<<<<< HEAD
-    background-color: rgb(1, 156, 1);
-=======
+
+    background-color: #c4bebe;
+
     background-color: gainsboro;,
->>>>>>> 6e4e55242ca2460c308c58eadc023660260bd0a9
+
 }
 table {
     margin: auto;
@@ -27,21 +27,18 @@ a.hover, a.active {
     border: solid 1px white;
 }
 td {
-    margin: auto;
-}
-.doboz {
-    background-color: darkslategray;
-    width: 85%;
-    height: 100%;
-    margin: auto;
-    
+    margin: auto;    
 }
 .dobozok {
     background-color: white;
     width: 70%;
     height: 90%;
     margin: auto;
-    border: solid 3px 10px darkslategray;
+    padding: 5px;
+    border-top: solid 50px darkslategray;
+    border-left: solid 50px darkslategray;
+    border-right: solid 50px darkslategray;
+    border-bottom: solid 50px darkslategray;
 }
 .magyar {
     float: right;
