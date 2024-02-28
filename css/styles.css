@@ -1,5 +1,8 @@
 body {
-    background-color: whitesmoke;
+    background-color: rgb(1, 156, 1);,
+}
+table {
+    
 }
 .tudos {
     position: static;
@@ -10,9 +13,9 @@ body {
     margin: 5px;
 }
 .fejlec {
-    margin: 2 auto;
+    margin: 0 auto;
     border: solid 2px white;
-    width: 102%;
+    width: 100%;
     height: 300px;
 }
 a.hover, a.active {
@@ -23,7 +26,7 @@ td {
 }
 .dobozok {
     background-color: white;
-    width: 60%;
+    width: 88%;
     height: 90%;
     margin: auto;
     border: solid 3px 10px darkslategray;
