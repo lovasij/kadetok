@@ -1,14 +1,19 @@
 body {
     background-color: whitesmoke;
 }
+.tudos {
+    position: static;
+}
 .kep_tudosok {
-    width: 30px;
-    height: 20px;
-    margin: 2px;
+    width: 200px;
+    height: 170px;
+    margin: 5px;
 }
 .fejlec {
     margin: 2 auto;
     border: solid 2px white;
+    width: 102%;
+    height: 300px;
 }
 a.hover, a.active {
     border: solid 1px white;
@@ -23,6 +28,12 @@ td {
     margin: auto;
     border: solid 3px 10px darkslategray;
 }
-.zaszlo {
+.magyar {
     float: right;
+    width: 40px;
+
+}
+.angol {
+    float: right;
+    width: 40px;
 }
