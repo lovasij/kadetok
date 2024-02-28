@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
+    background-color: rgb(1, 156, 1);
+=======
     background-color: gainsboro;,
+>>>>>>> 6e4e55242ca2460c308c58eadc023660260bd0a9
 }
 table {
     margin: auto;
