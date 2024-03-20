@@ -1,8 +1,7 @@
 body {
 
     background-color: #c4bebe;
-
-    background-color: gainsboro;,
+    background-color: gainsboro;
 
 }
 .kepp{
@@ -54,4 +53,7 @@ td {
 .angol {
     float: right;
     width: 40px;
+}
+.kep-ek{
+    float: right;
 }
