@@ -1,7 +1,10 @@
 body {
 
     background-color: #c4bebe;
+<<<<<<< HEAD
 
+=======
+>>>>>>> e86a618150d557bc7857a16127ead8b33ce46d09
     background-color: gainsboro;
 
 }
@@ -54,4 +57,7 @@ td {
 .angol {
     float: right;
     width: 40px;
+}
+.kep-ek{
+    float: right;
 }
