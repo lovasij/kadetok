@@ -5,6 +5,12 @@ body {
     background-color: gainsboro;,
 
 }
+.kepp{
+    margin: 0 auto;
+    width: 70%;
+    height: 300px;
+    transform: translateX(150px);
+}
 table {
     margin: auto;
 
